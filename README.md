@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Varsha 👋
 
-<!--
-**varsha-k-k/varsha-k-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student (KTU)  
+💻 Passionate about software development, full-stack projects, and problem solving  
+🚀 Currently building: [Keeper App](https://github.com/yourusername/keeper-app)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** C++, JavaScript, Python, SQL  
+- **Frontend:** React.js, HTML5, CSS3, Tailwind  
+- **Backend:** Node.js, Express  
+- **Database:** PostgreSQL, MongoDB (basic)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Practice Projects
+- 📝 [Keeper App](https://github.com/yourusername/keeper-app) – Notes app (React + Node + Postgres)  
+- 🌐 [Portfolio Website](https://github.com/yourusername/portfolio-website) – Personal site to showcase projects  
+- ✅ [Todo App](https://github.com/yourusername/todo-app) – Simple task manager with CRUD features  
+
+
+---
+
+## 🌱 Currently Learning
+- Advanced React (Hooks, Context, Redux)  
+- Cloud deployment (Render / Vercel / AWS)  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/varsha-k-k-aa1b93249/) 
+- [Email](mailto:varshakk022@gmail.com)  
+
+
