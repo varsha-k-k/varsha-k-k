@@ -17,7 +17,7 @@
 
 ## 📌 Practice Projects
 - 📝 [Keeper App](https://github.com/varsha-k-k/keeper-app) – Notes app (React + Node + Postgres)  
-- 🌐 [Portfolio Website](https://github.com/yourusername/portfolio-website) – Personal site to showcase projects  
+- 🌐 [Acadex](https://github.com/varsha-k-k/minii/tree/master) – centralized web based platform for students under KTU where they can access study materials and stay updated on skill building opportunities
 - ✅ [Todo App](https://github.com/yourusername/todo-app) – Simple task manager with CRUD features  
 
 
