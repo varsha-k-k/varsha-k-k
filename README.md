@@ -2,7 +2,7 @@
 
 🎓 Final-year Computer Science student (KTU)  
 💻 Passionate about software development, full-stack projects, and problem solving  
-🚀 Currently building: [Keeper App](https://github.com/yourusername/keeper-app)  
+🚀 Currently exploring AI.
 
 ---
 
