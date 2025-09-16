@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Practice Projects
-- 📝 [Keeper App](https://github.com/yourusername/keeper-app) – Notes app (React + Node + Postgres)  
+- 📝 [Keeper App](https://github.com/varsha-k-k/keeper-app) – Notes app (React + Node + Postgres)  
 - 🌐 [Portfolio Website](https://github.com/yourusername/portfolio-website) – Personal site to showcase projects  
 - ✅ [Todo App](https://github.com/yourusername/todo-app) – Simple task manager with CRUD features  
 
