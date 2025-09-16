@@ -2,7 +2,6 @@
 
 🎓 Final-year Computer Science student (KTU)  
 💻 Passionate about software development, full-stack projects, and problem solving  
-🚀 Currently exploring AI.
 
 ---
 
@@ -24,7 +23,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced React (Hooks, Context, Redux)  
+- Advanced React (Hooks, Context, Redux)
+- AI
 - Cloud deployment (Render / Vercel / AWS)  
 
 ---
