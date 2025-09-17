@@ -25,7 +25,7 @@
 ## 🌱 Currently Learning
 - Advanced React (Hooks, Context, Redux)
 - AI
-- Cloud deployment (Render / Vercel / AWS)  
+- Cloud deployment (AWS)  
 
 ---
 
