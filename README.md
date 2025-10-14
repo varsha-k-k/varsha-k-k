@@ -1,7 +1,7 @@
 # Hi, I'm Varsha 👋
 
 🎓 Final-year Computer Science student (KTU)  
-💻 Passionate about software developmen and problem solving with AI  
+💻 Passionate about software development and problem solving with AI  
 
 ---
 
